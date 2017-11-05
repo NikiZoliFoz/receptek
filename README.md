@@ -1,1 +1,3 @@
-# receptek
+# Receptek
+
+Niki & Zozi receptkonyve :)
