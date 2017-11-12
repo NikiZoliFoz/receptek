@@ -22,28 +22,28 @@ Liszt helyett kukoricaliszt
 ## Lasagne
 
 1. serpenyobe megfozni:<br>
-hus<br>
-hagyma<br>
-paradicsom szosz<br>
-herbes de provence: marjoram, rosemary, thyme, oregano
+    hus<br>
+    hagyma<br>
+    paradicsom szosz<br>
+    herbes de provence: marjoram, rosemary, thyme, oregano
 
 1. sutobe:<br>
-talat baconnel belelni<br>
-lasagna lap<br>
-bechamel<br>
-sajt<br>
-hus<br>
-<br>
-lap<br>
-bechamel<br>
-sajt<br>
-hus<br>
-<br>
-lap<br>
-bechamel<br>
-sajt<br>
-<br>
-bacon wrap<br>
+    talat baconnel belelni<br>
+    lasagna lap<br>
+    bechamel<br>
+    sajt<br>
+    hus<br>
+
+    lap<br>
+    bechamel<br>
+    sajt<br>
+    hus<br>
+
+    lap<br>
+    bechamel<br>
+    sajt<br>
+
+    bacon wrap<br>
 
 1. 45 min
 180 fok
